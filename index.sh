@@ -8,7 +8,7 @@ id=''
 while read line;do
 
   # verifico se é a linha GET
-  if [[ $(echo "$line" | grep -i '^(GET|HEAD) ' | wc -l) -gt 0 ]]; then
+  if [[ $(echo "$line" | grep -i '^\(GET\|HEAD\) ' | wc -l) -gt 0 ]]; then
 
     # salvo a query
     query="$line"
