@@ -7,6 +7,7 @@ Este microserviço tem por finalidade verificar se um CPF é ou não válido
 |Data|Versão|Alias|Responsável|Nota
 |---|---|---|---|---
 |2018-10-13|1.0.0|adelsoncouto/ms-cpf|Adelson Silva Couto <adscouto@gmail.com>| Primeira versão
+|2018-10-13|1.0.1|adelsoncouto/ms-cpf|Adelson Silva Couto <adscouto@gmail.com>| Correção no tratamento do HEAD/GET
 
 # Uso
 
